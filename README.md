@@ -1,6 +1,9 @@
 # Bootstrap Default
 Installation profile with bootstrap codebase
 
+Reference:
+https://www.drupal.org/docs/8/distributions/creating-distributions/how-to-write-a-drupal-installation-profile
+
 ## Reuse YML files
 Remove all of the UUIDs and default_config_hash from your config files so that they don't conflict with those of new sites. This can be done quite easily on the command line like so all on one line:
 
