@@ -1,0 +1,77 @@
+name: Bootstrap Default
+type: profile
+description: 'Basic profile installation.'
+core_version_requirement: ^8 || ^9
+core: 8.x
+install:
+  - automated_cron
+  - big_pipe
+  - block
+  - breakpoint
+  - ckeditor
+  - config
+  - contextual
+  - block_content
+  - menu_link_content
+  - dblog
+  - field
+  - filter
+  - help
+  - history
+  - dynamic_page_cache
+  - media
+  - media_library
+  - menu_ui
+  - node
+  - path
+  - quickedit
+  - shortcut
+  - system
+  - taxonomy
+  - editor
+  - toolbar
+  - update
+  - user
+  - views
+  - views_ui
+  - admin_toolbar
+  - admin_toolbar_tools
+  - ctools
+  - devel
+  - devel_php
+  - kint
+  - filefield_paths
+  - datetime
+  - file
+  - image
+  - link
+  - options
+  - text
+  - telephone
+  - entity_embed
+  - entity_browser
+  - svg_image
+  - advanced_link
+  - backup_migrate
+  - editor_file
+  - embed
+  - entity_clone
+  - path_auto
+  - token
+  - metatag
+  - metatag_dc
+  - metetag_opengraph
+  - google_analytics
+  - webform
+  - webform_rest
+  - webform_ui
+  - hal
+  - basic_auth
+  - jsonapi
+  - restui
+  - rest
+  - serielization
+themes:
+  - bootstrap_barrio
+  - nomination
+  - claro

@@ -1,0 +1,11 @@
+name: 'PLMA’s 2020 International '
+mail: admin@example.com
+slogan: 'Salute to Excellence Awards'
+page:
+  403: ''
+  404: ''
+  front: /react/form
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en

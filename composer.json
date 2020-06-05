@@ -1,0 +1,14 @@
+{
+  "name": "hatuhay/bootstrap_default",
+  "type": "drupal-profile",
+  "description": "Basic installation of Drupal.",
+  "keywords": ["Drupal", "Bootstrap"],
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "hatuhay",
+      "email": "alberto@siles.pe"
+    }
+  ],
+  "require": {}
+}
