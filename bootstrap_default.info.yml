@@ -9,6 +9,7 @@ install:
   - block
   - breakpoint
   - ckeditor
+  - comment
   - config
   - contextual
   - block_content
