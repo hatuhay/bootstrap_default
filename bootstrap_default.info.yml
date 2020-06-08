@@ -59,7 +59,6 @@ install:
   - token
   - metatag
   - metatag_dc
-  - metatag_opengraph
   - google_analytics
   - webform
   - webform_rest
