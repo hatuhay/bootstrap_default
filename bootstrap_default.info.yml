@@ -10,6 +10,7 @@ install:
   - breakpoint
   - ckeditor
   - comment
+  - contact
   - config
   - contextual
   - block_content
@@ -26,6 +27,7 @@ install:
   - node
   - path
   - quickedit
+  - search
   - shortcut
   - system
   - taxonomy
@@ -75,3 +77,5 @@ themes:
   - bootstrap_barrio
   - nomination
   - claro
+  - bartik
+  - sevem
