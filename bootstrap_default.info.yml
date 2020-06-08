@@ -27,6 +27,7 @@ install:
   - node
   - path
   - quickedit
+  - rdf
   - search
   - shortcut
   - system
