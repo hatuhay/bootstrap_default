@@ -50,6 +50,7 @@ install:
   - telephone
   - entity_embed
   - entity_browser
+  - entity_reference_revisions
   - svg_image
   - backup_migrate
   - editor_file
