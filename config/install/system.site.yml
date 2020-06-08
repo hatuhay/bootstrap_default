@@ -1,10 +1,11 @@
-name: 'PLMA’s 2020 International '
-mail: admin@example.com
-slogan: 'Salute to Excellence Awards'
+uuid: ''
+name: ''
+mail: ''
+slogan: ''
 page:
   403: ''
   404: ''
-  front: /react/form
+  front: /node
 admin_compact_mode: false
 weight_select_max: 100
 langcode: en

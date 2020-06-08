@@ -9,6 +9,5 @@ permissions:
   - 'access comments'
   - 'access content'
   - 'access site-wide contact form'
-  - 'restful post webform_rest_submit'
   - 'search content'
   - 'use text format restricted_html'
